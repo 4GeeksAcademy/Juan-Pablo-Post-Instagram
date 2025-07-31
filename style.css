@@ -5,25 +5,39 @@
 }
 
 body {
-     font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #fafafa;
     display: flex;
     justify-content: center;
     padding: 20px;
 }
 .user-info {
-    display: flex;
-    align-items: center;
-    gap: 8px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: Arial, sans-serif;
+}
+.user-info i{
     font-size: 16px;
 }
-.user-info {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 16px;
+.username {
+    font-weight: normal;
+    font-size: 13px;
+    color: #333;
+}
+.fa-bookmark{
+    padding-left: 212px;
 }
 
+.text-info {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.2;
+}
+.title {
+    font-weight: bold;
+    font-size: 14px;
+}
 .post {
     width: 350px;
     background-color: white;
@@ -45,11 +59,6 @@ body {
     border-radius: 50%;
 }
 
-.username {
-    font-weight: bold;
-    margin-left: 10px;
-}
-
 .options {
     font-size: 18px;
     cursor: pointer;
@@ -62,8 +71,9 @@ body {
 
 .actions {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
     padding: 10px;
+    gap: 8px;
 }
 
 .actions span {
@@ -72,15 +82,16 @@ body {
 }
 
 .likes, .caption {
-    padding: 10px;
+    padding: 2px 12px ;
 }
 
+.caption{
+    padding-bottom: 18px;
+}
 .likes span {
-    font-weight: bold;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .caption p {
-    font-size: 14px;
-    color: #555;
+    font-size: 12px;
 }

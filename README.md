@@ -1,8 +1,11 @@
-# HTML Hello
+# Post de Instagram
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+Instagram es una de las interfaces de usuario más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com.
 
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
+Crea los archivos HTML y CSS necesarios para replicar esta misma imagen.
+
+> Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://storage.googleapis.com/breathecode-asset-images/800dcb7e37ce3458a2b187970249318da2b03c898d9d6a20f1c05898b67524a0.png?raw=true).
+> (https://storage.googleapis.com/breathecode-asset-images/800dcb7e37ce3458a2b187970249318da2b03c898d9d6a20f1c05898b67524a0.png?raw=true)
 
 ## What to do next?
 

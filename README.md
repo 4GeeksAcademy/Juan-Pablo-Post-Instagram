@@ -5,7 +5,7 @@ Instagram es una de las interfaces de usuario más populares del mundo, este es 
 Crea los archivos HTML y CSS necesarios para replicar esta misma imagen.
 
 > Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://storage.googleapis.com/breathecode-asset-images/800dcb7e37ce3458a2b187970249318da2b03c898d9d6a20f1c05898b67524a0.png?raw=true).
-> (https://storage.googleapis.com/breathecode-asset-images/800dcb7e37ce3458a2b187970249318da2b03c898d9d6a20f1c05898b67524a0.png?raw=true)
+> ![postcard preview](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png)
 
 ## What to do next?
 
